@@ -20,7 +20,7 @@
 
 append `&bg_color=eff1f5&text_color=4c4f69&icon_color=8839ef&title_color=179299` to the url
 
-### Frappe
+### Frappé
 
 ![frappe user preview](https://github-readme-stats.vercel.app/api?username=Pocco81&show_icons=true&bg_color=303446&text_color=c6d0f5&icon_color=ca9ee6&title_color=81c8be)
 ![frappe repo preview](https://github-readme-stats.vercel.app/api/pin/?username=catppuccin&repo=catppuccin&bg_color=303446&text_color=c6d0f5&icon_color=ca9ee6&title_color=81c8be)
